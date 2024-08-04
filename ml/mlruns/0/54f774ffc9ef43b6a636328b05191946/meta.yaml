@@ -1,0 +1,15 @@
+artifact_uri: file:///home/avishek/Code/machine_learning/ml/mlruns/0/54f774ffc9ef43b6a636328b05191946/artifacts
+end_time: 1690868717747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54f774ffc9ef43b6a636328b05191946
+run_name: gaudy-perch-630
+run_uuid: 54f774ffc9ef43b6a636328b05191946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690868715278
+status: 3
+tags: []
+user_id: avishek

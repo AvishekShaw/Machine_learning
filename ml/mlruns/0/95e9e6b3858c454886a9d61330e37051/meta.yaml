@@ -1,0 +1,15 @@
+artifact_uri: file:///home/avishek/Code/machine_learning/ml/mlruns/0/95e9e6b3858c454886a9d61330e37051/artifacts
+end_time: 1690868874348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95e9e6b3858c454886a9d61330e37051
+run_name: aged-shrimp-675
+run_uuid: 95e9e6b3858c454886a9d61330e37051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690868872479
+status: 4
+tags: []
+user_id: avishek
